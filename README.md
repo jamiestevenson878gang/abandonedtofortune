@@ -48,7 +48,7 @@ Next steps
 ----------
 - Add API keys (Mapbox, Zillow, Land Registry) in repository secrets or .env
 - Replace seed/sample data with real data sources and integrations
-- Deploy to a host (Heroku, Render, Vercel, etc.)
+- Deploy to a host (Render, Vercel, Heroku, etc.)
 
 ---
 
